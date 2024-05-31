@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hello! My name is Georgiy Belyanin
+- __Education__: SPbU, SE, Bachelor, 2022-...
+- __Interests__: software engineering, complexity theory, computer science, compilers, linear algebra, abstract algebra, functional programming, robotics
+- __Projects__:  
+	- [2-RPQs algorithm with linear algebra and sparse matrices](https://github.com/georgiy-belyanin/CFPQ_PyAlgo)
+	- [ARM/DSP communication for TRIK robots](https://github.com/georgiy-belyanin/trik-media-sensors)
+	- [LLVM Frontend](https://github.com/georgiy-belyanin/slang)
+	- [Header-only C unit-test](https://github.com/georgiy-belyanin/cut)
+- __Skills & technologies__: C, x86-64/RISC-V/MIPS assembly, C++, TeX, Python, SQL, LLVM, git, CMake, Docker, Linux,  Vue, TypeScript, HTML/CSS
 
 <!--
 **georgiy-belyanin/georgiy-belyanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
